@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cybersoulja
-- 👀 I’m interested in Discord Web3 Integration
-- 🌱 I’m currently learning Discord Development
-- 💞️ I’m looking to collaborate on a Discord/website login app
+- 👀 I’m interested in python development
+- 🌱 I’m currently learning python
+- 💞️ I’m privately collaborating currently
 - 📫 How to reach me Kevo@oneseco.com
 
 <!---
